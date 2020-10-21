@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">My Application</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_my_activity2">MyActivity2</string>
+    <string name="button1">Activity 2 aufrufen</string>
+    <string name="button2">Zurück zur Hauptaktivität</string>
+    <string name="textview_name" />
+
+</resources>
